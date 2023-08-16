@@ -12,7 +12,7 @@ redirect_from:
 
 <i class="fas fa-id-card"></i> 日本学術振興会特別研究員PD 
 
-<i class="fas fa-landmark"></i> 海洋研究開発機構　海域地震火山部門　火山・地球内部研究センター 固体地球データ科学研究グループ
+<i class="fas fa-landmark"></i> 海洋研究開発機構　海域地震火山部門　火山・地球内部研究センター
 
 <i class="fas fa-envelope"></i> akamatsuy@jamstec.go.jp
 
@@ -26,8 +26,6 @@ redirect_from:
 <i class="fas fa-file-alt"></i> 2023.06 JGR-Solid Earthに主著論文が出版されました
 
 <i class="fas fa-file-alt"></i> 2023.05 Geochemistory, Geophysiscs, Geosystemsに主著論文が出版されました
-
-<i class="fas fa-user-graduate"></i> 2023.04 JAMSTECで学振PDになりました
 
 ---
 ## Research interests
