@@ -16,16 +16,16 @@ redirect_from:
 
 <i class="fas fa-envelope"></i> akamatsuy@jamstec.go.jp
 
-<i class="fas fa-location-dot"></i> 237-0061 神奈川県横須賀市夏島町2-15　海洋研究開発機構フロンティア研究棟３階
+<i class="fas fa-map-marker-alt"></i> 237-0061 神奈川県横須賀市夏島町2-15　海洋研究開発機構フロンティア研究棟３階
 
 ---
 ## News
 
 <i class="fas fa-award"></i> 2023.08 GEOINFORUM-2023（情報地質学会2023）で奨励賞を受賞しました
 
-<i class="fas fa-file-lines"></i> 2023.06 JGR-Solid Earthに主著論文が出版されました
+<i class="fas fa-file-alt"></i> 2023.06 JGR-Solid Earthに主著論文が出版されました
 
-<i class="fas fa-file-lines"></i> 2023.05 Geochemistory, Geophysiscs, Geosystemsに主著論文が出版されました
+<i class="fas fa-file-alt"></i> 2023.05 Geochemistory, Geophysiscs, Geosystemsに主著論文が出版されました
 
 <i class="fas fa-user-graduate"></i> 2023.04 JAMSTECで学振PDになりました
 
