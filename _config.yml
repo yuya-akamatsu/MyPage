@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "JSPS PD @JAMSTEC, IMG"
   location         : "Yokosuka, JAPAN"
-  employer         : https://www.jamstec.go.jp/j/about/research/
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DWxWQksAAAAJ&hl=en&oi=ao"
   email            :
@@ -106,7 +106,7 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : https://researchmap.jp/yuya-akamatsu # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : "yuya_akamatsu"
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  researchmap      : https://researchmap.jp/yuya-akamatsu
+  # researchmap      : https://researchmap.jp/yuya-akamatsu
 
 
 # Reading Files
