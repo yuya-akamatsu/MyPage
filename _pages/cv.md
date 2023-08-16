@@ -1,4 +1,4 @@
-![image](https://github.com/yuya-akamatsu/MyPage/assets/88282154/420bdd30-4282-4a63-aae5-f3d718125ad3)---
+---
 layout: archive
 title: "CV"
 permalink: /cv/
