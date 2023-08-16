@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**赤松祐哉 Yuya AKAMATSU**
+## 赤松祐哉 Yuya AKAMATSU
 
 <i class="fas fa-id-card"></i> 日本学術振興会特別研究員PD 
 
