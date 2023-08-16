@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "赤松祐哉 Yuya AKAMASTU"
+  name             : "Yuya AKAMASTU"
   avatar           : "profile.png"
   bio              : "JSPS PD @JAMSTEC, IMG"
   location         : "Yokosuka, JAPAN"
@@ -106,7 +106,7 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : https://researchmap.jp/yuya-akamatsu # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://researchmap.jp/yuya-akamatsu" # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : "yuya_akamatsu"
