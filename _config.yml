@@ -106,7 +106,7 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://researchmap.jp/yuya-akamatsu" # http://stackoverflow.com/users/123456/username
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : "yuya_akamatsu"
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  # researchmap      : https://researchmap.jp/yuya-akamatsu
+  researchmap      : "yuya-akamatsu"
 
 
 # Reading Files
