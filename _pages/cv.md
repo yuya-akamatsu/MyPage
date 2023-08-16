@@ -1,4 +1,4 @@
----
+![image](https://github.com/yuya-akamatsu/MyPage/assets/88282154/420bdd30-4282-4a63-aae5-f3d718125ad3)---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -9,51 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+学歴
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 学士（理学）　2018.03　広島大学理学部地球惑星システム学科
+* 修士（理学）　2020.03　広島大学理学研究科地球惑星システム学専攻
+* 博士（理学）　2023.03　広島大学先進理工系科学研究科先進理工系科学専攻
 
-Work experience
+職歴
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020.04–2023.03 日本学術振興会特別研究員DC1
+  * 広島大学
+  * 受入研究者：片山郁夫
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2023.04–present 日本学術振興会特別研究員PD
+  * 海洋研究開発機構
+  * 受入研究者：桑谷立
 
-Publications
+受賞
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* 2023.08 日本情報地質学会　奨励賞
+* 2022.03 広島大学学生表彰（令和３年度）
+* 2022.03 広島大学先進理工系科学研究科長表彰（令和３年度）
+* 2020.11 日本地球惑星科学連合 固体地球科学セクション　ハードロック掘削科学フォーカスグループ 若手奨励賞
+* 2019.09 日本鉱物科学会 優秀研究発表賞
+* 2019.05 日本地球惑星科学連合大会 （JpGU）学生優秀発表賞
+
+所属学会
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 日本地球惑星科学連合
+* 日本鉱物科学会
+* 日本情報地質学会
