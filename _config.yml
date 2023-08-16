@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yuya AKAMASTU"
   avatar           : "profile.png"
-  bio              : "JSPS PD @JAMSTEC, IMG"
-  location         : "Yokosuka, JAPAN"
+  bio              : "JSPS PD @JAMSTEC"
+  location         : 
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DWxWQksAAAAJ&hl=en&oi=ao"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-3462-2874"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
