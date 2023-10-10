@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuya AKAMATSU / Home"
 title_separator          : "-"
 name                     : &name "Yuya Akamatsu"
-description              : &description "Posdoc at JAMSTEC"
+description              : &description "Researcher at JAMSTEC"
 url                      : https://yuya-akamatsu.github.io/MyPage # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuya AKAMASTU"
   avatar           : "IMG_1175.JPG"
-  bio              : "JSPS PD @JAMSTEC"
+  bio              : "Researcher @JAMSTEC"
   location         : 
   employer         : 
   pubmed           : 
